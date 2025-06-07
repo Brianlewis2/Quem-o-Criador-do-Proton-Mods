@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://brianlewis2.github.io/Quem-o-Criador-do-Proton-Mods/sitemap.xml
